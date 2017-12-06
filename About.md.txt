@@ -1,1 +1,2 @@
-This code is for checking a palindrome
+This code is for checking a palindrome.
+the second step is done..
